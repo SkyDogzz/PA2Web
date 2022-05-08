@@ -1,0 +1,13 @@
+:root{
+    --primary-text-color: #000000;
+    --primary-background-color: #ffffff;
+    --borders-header: #c4c4c4;
+    --dropdown-color: #e5e5e5;
+
+    --main-button-background: #FEA82B;
+    --second-button-background: #cc8111;
+
+    --footer-background-color: #333333;
+    --footer-title-color: #FFFFFF;
+    --footer-link-color: #808080;
+}

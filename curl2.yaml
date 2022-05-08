@@ -1,0 +1,25 @@
+- id: 7
+  date: Wed Apr 13 2022 17:56:58 GMT 0200 (heure d’été d’Europe centrale)
+  productId: 11
+  price: "$1,236.68"
+- id: 8
+  date: Wed Apr 13 2022 15:02:25 GMT 0100 (heure normale d’Europe centrale)
+  productId: 5
+  price: "$2,884.15"
+- id: 9
+  date: Wed Apr 13 2022 14:44:12 GMT 0200 (heure d’été d’Europe centrale)
+  productId: 3
+  price: "$1,482.59"
+- id: 10
+  date: Wed Apr 13 2022 00:39:07 GMT 0200 (heure d’été d’Europe centrale)
+  productId: 15
+  price: "$1,450.24"
+- id: 11
+  date: Wed Apr 13 2022 17:27:22 GMT 0100 (heure normale d’Europe centrale)
+  productId: 8
+  price: "$3,555.32"
+- id: 12
+  date: Wed Apr 13 2022 19:34:27 GMT 0100 (heure normale d’Europe centrale)
+  productId: 15
+  price: "$3,004.17"
+
